@@ -43,7 +43,7 @@ Project Workflow
 
 How to Run
 1. Clone the repository
-git clone https://github.com/your-username/ecommerce-recommender.git
+git clone https://github.com/tanishaprabhu/ecommerce-recommender.git
 2. Navigate to the project folder
 cd ecommerce-recommender
 3. Install the required dependencies
